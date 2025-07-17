@@ -1,6 +1,6 @@
 # Master Thesis – Detection and Countermeasures against GAN-Generated Fake Images and Videos
 
-This repository contains the final version of my Master's thesis in Machine Learning, completed at Université de Lille during the academic year 2024–2025.
+This repository contains the final version of my Master's thesis in Machine Learning, completed at University of Lille during the academic year 2023–2025.
 
 ## Thesis Title (in French)
 
@@ -22,11 +22,11 @@ The thesis is written in French and includes numerous references to current scie
 ## Download
 
 > 📎 **Final thesis PDF (in French):**  
-> [Download Stevenson Pather's Thesis (PDF)](./Stevenson_Pather_Thesis_2025.pdf)
+> [Download Stevenson Pather's Thesis (PDF)](https://github.com/patherstevenson/MasterThesis/blob/raw/main/Stevenson_Pather_Thesis_2025.pdf)
 
 ## Supervision
 
-This thesis was conducted under the supervision of [Dr. Marc Tommasi](https://chercheurs.lille.inria.fr/tommasi/), professor at Université de Lille and researcher at Inria – Team Magnet.
+This thesis was conducted under the supervision of [Dr. Marc Tommasi](https://chercheurs.lille.inria.fr/tommasi/), professor at University of Lille and researcher at Inria – Team Magnet.
 
 ## Citation
 
