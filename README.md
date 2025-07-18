@@ -27,7 +27,7 @@ The thesis is written in French and includes numerous references to current scie
 
 ## Supervision
 
-This thesis was conducted under the supervision of [Dr. Marc Tommasi](https://chercheurs.lille.inria.fr/tommasi/), professor at University of Lille and researcher at Inria – Team Magnet.
+This thesis was conducted under the supervision of [Dr. Marc Tommasi](https://chercheurs.lille.inria.fr/tommasi/), professor at University of Lille and Head researcher at Inria – Team Magnet.
 
 ## Citation
 
