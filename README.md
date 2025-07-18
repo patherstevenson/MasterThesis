@@ -11,11 +11,12 @@ This repository contains the final version of my Master's thesis in Machine Lear
 The recent advances in Generative Adversarial Networks (GANs) have led to the creation of synthetic images and videos that are increasingly difficult to distinguish from real ones. This thesis investigates existing detection techniques and countermeasures aimed at identifying GAN-generated visual content, analyzing their strengths, limitations, and robustness.
 
 Key topics include:
+
+- Analysis of human perception limits when facing synthetic content
+- Societal and ethical considerations related to visual falsification
 - Historical overview of visual falsification before GANs
 - Architectures and evolutions of GANs (DCGAN, ProGAN, StyleGAN, etc.)
 - Detection methods using color cues, co-occurrence matrices, anatomical inconsistencies, and GAN fingerprints
-- Analysis of human perception limits when facing synthetic content
-- Societal and ethical considerations related to visual falsification
 
 The thesis is written in French and includes numerous references to current scientific research in the field of media forensics and deep learning.
 
